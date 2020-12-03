@@ -1,0 +1,17 @@
+{
+    "name": "bidya/test",
+    "description": "testing",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "bidyanda",
+            "email": "bidyandaningthoujam@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "TEST": "src/"
+        }
+    }
+}
